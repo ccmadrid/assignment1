@@ -100,7 +100,7 @@ details p {
     
 }
 
-#box {
+.box {
     position:sticky;
     color: #eee;
     padding: 0 5% 3rem;
