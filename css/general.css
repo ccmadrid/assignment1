@@ -96,12 +96,10 @@ li {
 
 details p {
     margin-bottom: 3rem;
-    text-align:
-    
 }
 
 .box {
-    position:sticky;
+    position:relative;
     color: #eee;
     padding: 0 5% 3rem;
     margin-right:10%;
@@ -125,9 +123,7 @@ summary {
     background-repeat: no-repeat;
     background-size: 3rem;
     background-color: #ded;
-    border-style: solid;
-    border-width: normal;
-    border-color: #fff;
+    border: solid #fff;
     width: 90%;
     height: 3.25rem;
     margin: .5rem 8px;
@@ -139,7 +135,6 @@ summary {
     overflow: hidden;
     min-width: 180px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, .2);
-    position: sticky;
     padding: 1rem;
 }
 
